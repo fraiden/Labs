@@ -9,6 +9,7 @@ import pylab as plt
 
 e1, e2, e3 = 10 ** (-3), 10 ** (-6), 10 ** (-9)
 
+
 x_min = 0.0
 x_max = 10.0
 n = 200
